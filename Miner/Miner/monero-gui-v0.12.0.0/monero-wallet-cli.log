@@ -1,6 +1,0 @@
-2018-04-08 07:12:57.056	104632	INFO 	logging	contrib/epee/src/mlog.cpp:185	New log categories: *:WARNING,net:FATAL,net.p2p:FATAL,net.cn:FATAL,global:INFO,verify:FATAL,stacktrace:INFO,logging:INFO,msgwriter:INFO
-2018-04-08 07:12:57.056	104632	INFO 	msgwriter	src/common/scoped_message_writer.h:102	This is the command line monero wallet. It needs to connect to a monero
-daemon to work correctly.
-
-2018-04-08 07:12:57.058	104632	INFO 	msgwriter	src/common/scoped_message_writer.h:102	Monero 'Lithium Luna' (v0.12.0.0-master-release)
-2018-04-08 07:12:57.059	104632	INFO 	msgwriter	src/common/scoped_message_writer.h:102	Logging to C:\Users\Samir\Desktop\--Mine-Full-Trader--\Miner\Miner\monero-gui-v0.12.0.0\monero-wallet-cli.log

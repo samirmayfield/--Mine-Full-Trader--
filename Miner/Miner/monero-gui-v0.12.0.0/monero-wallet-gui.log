@@ -1,9 +1,0 @@
-2018-04-07 19:20:12.700	67564	INFO 	logging	contrib/epee/src/mlog.cpp:185	New log categories: *:WARNING,net:FATAL,net.p2p:FATAL,net.cn:FATAL,global:INFO,verify:FATAL,stacktrace:INFO,logging:INFO,msgwriter:INFO
-2018-04-07 19:20:28.083	67564	WARN 	net.http	src/common/util.cpp:627	Failed to determine whether address '' is local, assuming not
-2018-04-07 19:20:55.380	67564	ERROR	net.http	src/wallet/node_rpc_proxy.cpp:98	Failed to connect to daemon
-2018-04-07 19:23:10.897	67564	ERROR	wallet.wallet2	src/wallet/wallet2.cpp:3958	error removing file: C:/Users/Samir/AppData/Local/Temp/monero-core.qRMDJf.address.txt
-2018-04-07 19:23:10.949	67564	INFO 	logging	contrib/epee/src/mlog.cpp:185	New log categories: *:WARNING,net:FATAL,net.p2p:FATAL,net.cn:FATAL,global:INFO,verify:FATAL,stacktrace:INFO,logging:INFO,msgwriter:INFO
-2018-04-08 06:48:31.237	101236	INFO 	logging	contrib/epee/src/mlog.cpp:185	New log categories: *:WARNING,net:FATAL,net.p2p:FATAL,net.cn:FATAL,global:INFO,verify:FATAL,stacktrace:INFO,logging:INFO,msgwriter:INFO
-2018-04-08 06:48:38.763	101236	WARN 	net.http	src/common/util.cpp:627	Failed to determine whether address '' is local, assuming not
-2018-04-08 07:33:57.649	105216	INFO 	logging	contrib/epee/src/mlog.cpp:185	New log categories: *:WARNING,net:FATAL,net.p2p:FATAL,net.cn:FATAL,global:INFO,verify:FATAL,stacktrace:INFO,logging:INFO,msgwriter:INFO
-2018-04-08 07:33:58.562	105216	WARN 	net.http	src/common/util.cpp:627	Failed to determine whether address '' is local, assuming not
